@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Мой стек 
+### Мой стек 
+
+### Статистика
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAshizhev)](https://github.com/AmirAshizhev/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAshizhev&layout=compact)](https://github.com/AmirAshizhev/github-readme-stats)
