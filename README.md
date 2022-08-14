@@ -34,3 +34,8 @@ Here are some ideas to get you started:
 
 ### Фан факт
 Не смотрел Гарри Поттера после выхода последних Даров Смерти, даже на СТС
+
+###контакты
+Тел.: +7(904)337-33-92
+Почта: amirashizhev@yandex.ru
+Telegram: @Embraze11
