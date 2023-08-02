@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 ### Мой стек 
 * HTML5
 * CSS
+* SCSS
 * JavaScript
 * Git
 * БЭМ
 * React.js
 * Webpack
+* npm
 
 ### Статистика
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAshizhev&layout=compact)](https://github.com/AmirAshizhev/github-readme-stats)
@@ -42,3 +44,6 @@ ___
 Почта: amirashizhev@yandex.ru
 
 Telegram: @Embraze11
+
+Сайт-портфолио: [Нажми на меня](https://amirashizhev.github.io/portfolio/)
+
