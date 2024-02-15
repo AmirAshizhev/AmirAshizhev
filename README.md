@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAshizhev&layout=compact)](https://github.com/AmirAshizhev/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAshizhev&layout=compact)](https://github.com/AmirAshizhev/github-readme-stats)
 
-### Фан факт
-Не смотрел Гарри Поттера после выхода последних Даров Смерти, даже на СТС
-
 ___
 
 ### Контакты
