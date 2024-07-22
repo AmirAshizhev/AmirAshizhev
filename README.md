@@ -1,8 +1,5 @@
 ### Привет всем, меня зовут Амир👋
 
-- В настоящее время нахожусь в поиске работы
-- Хочу работать в окружении людей с горящими глазами
-- В поиске боевых проектов
 <!--
 **AmirAshizhev/AmirAshizhev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,15 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### Мой стек 
-* HTML5
-* CSS
-* SCSS
-* JavaScript
-* Git
-* БЭМ
+* JavaScript/TypeScript
 * React.js
-* Webpack
-* npm
+* Pixi.js
+* SCSS
 
 ### Статистика
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAshizhev&layout=compact)](https://github.com/AmirAshizhev/github-readme-stats)
