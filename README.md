@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 ___
 
 ### Контакты
-Тел.: +7(904)337-33-92
-
 Почта: amirashizhev@yandex.ru
 
 Telegram: @Embraze11
